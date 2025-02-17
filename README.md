@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Guilherme Magalhães
+# 👨🏻‍💻 João Guilherme Magalhães
 
 **`Desenvolvedor`**
 
