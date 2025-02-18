@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Administração Atualmente, estou cursando Engenharia da Computação na UNISAL,e sou apaixonado por tecnologia.
+Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em Administração Atualmente, estou cursando Engenharia da Computação na UNISAL,e sou apaixonado por tecnologia!
 
 
 ### 🤖 Linguagens e Tecnologias
