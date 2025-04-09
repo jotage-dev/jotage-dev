@@ -17,6 +17,15 @@ Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
 <img 
+    <img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  
+/>
+<img 
     align="left" 
     alt="Kotlin" 
     title="Kotlin"
