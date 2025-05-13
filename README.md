@@ -16,6 +16,8 @@ Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
+
+
 <img  
     align="left" 
     alt="Spring" 
@@ -34,13 +36,21 @@ Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. 
     />
     <img  
     align="left" 
-    alt="Node" 
-    title="Node"
+    alt="Javascript" 
+    title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
-          
+    
+ <img  
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+    />
 
 <img 
     align="left" 
