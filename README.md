@@ -86,6 +86,14 @@ Me chamo João Guilherme Magalhães, tenho 19 anos e sou natural de São Paulo. 
 />
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
